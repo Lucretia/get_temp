@@ -1,10 +1,10 @@
 # Get Temp
 
-A simple web scraping app to get the current temperature for a place.
+A simple web scraping app to get the current temperature for a place using Selenium.
 
 Written in Python using 3.9.
 
-I didn't know Python or web scraping before this.
+I didn't know any Python or web scraping before doing this.
 
 ## Copyright
 
